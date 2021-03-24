@@ -1,2 +1,2 @@
-# Questionário3
+# Questionario3
 link resposta para o questionário 3
